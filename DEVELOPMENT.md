@@ -52,3 +52,12 @@
 ### 4 期
 1. 多平台测试
 1. 发布alpha版
+
+### 5 期
+1. 自动更新
+    - Mac使用Squirrel.Mac
+    - Windows使用Squirrel.Windows
+    - Linux使用各系统自带的包管理器，可以依赖OBS[1]
+
+
+[1]: https://build.opensuse.org/
